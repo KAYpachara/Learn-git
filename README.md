@@ -1,1 +1,3 @@
-# Learn-git
+# Learn-gi
+
+Tanapadchara Chomjun 
